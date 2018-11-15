@@ -8,9 +8,9 @@
 
 ## 作业提交 
 
-1. 初次提交作业前需加入Github组织[m-L-0](https://www.baidu.com/)<sup><a id="fnr.1" class="footref" href="#fn.1">1</a></sup>,将自己的GIthub用户名报送给老师，等待组织邀请，收到邀请后按照相关提示加入即可。
+1. 初次提交作业前需加入Github组织[m-L-0](https://www.baidu.com/)<sup><a id="fnr.1" class="footref" href="#fn.1">1</a></sup>,将自己的GIthub用户名报送给老师，等待组织邀请，收到邀请后按照相关提示加入即可。另外，已经加入组织的无需重复加入。
 
-2. 加入组织后，在组织内创建自己的Repo来进行作业的提交<sup><a id="fnr.1" class="footref" href="#fn.1">2</a></sup>，Repo以<b>"18a-姓名-年级"</b>的形式命名，如“18a-张XX-2016”。
+2. 加入组织后，在组织内创建自己的Repo来进行作业的提交<sup><a id="fnr.1" class="footref" href="#fn.1">2</a></sup>，Repo以<b>"18b-姓名-年级-学号后三位"</b>的形式命名，其中姓名用拼音表示，如“18b-zhangsan-2016-001”。
 
 3. 每次作业以文件夹的形式在个人已创建的Repo中组织，作业文件夹以每次作业的名称命名。
 
@@ -26,11 +26,11 @@
 
 ## 作业成绩
 
-每次作业任务的评分成绩将发布到[**Training-18a-2016**](https://github.com/m-L-0/Training-18a-2016)Repo中。
+每次作业任务的评分成绩将发布到[**Training-18b-2016**](https://github.com/m-L-0/Training-18a-2016)Repo中。
 
 ## 脚注
 
-<sup><a id="fnr.1" class="footref" href="#fn.1">1</a></sup> 确保已创建Github账户，并将账户<b>Name</b>改为<b>“姓名-年级”</b>的形式，如：“张XX-2016”。
+<sup><a id="fnr.1" class="footref" href="#fn.1">1</a></sup> 确保已创建Github账户，并将账户<b>Name</b>改为<b>“姓名-年级”</b>的形式，如：“zhangsan-2016”。
 
 <sup><a id="fnr.1" class="footref" href="#fn.1">2</a></sup> 创建Repo时，可参考[Creat A Repo](https://help.github.com/articles/create-a-repo/)。
 
