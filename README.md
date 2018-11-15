@@ -18,7 +18,7 @@
 
    * 作业文件夹下应包含`README`文件，提供对作业内容及完成情况的简要介绍或总结。
 
-   * 作业使用**Jupyter Notebook**的格式编写，文件以当前作业名称命名，文件中附有作者信息，并包含数据处理、关键数学公式、算法、代码及结果等内容，描述准确，条理清楚。
+   * 作业使用<b>Jupyter Notebook</b>的格式编写，文件以当前作业名称命名，文件中附有作者信息，并包含数据处理、关键数学公式、算法、代码及结果等内容，描述准确，条理清楚。
 
    * 作业的代码文件组织到作业文件夹下名为`code`的文件夹中。
 
@@ -30,7 +30,7 @@
 
 ## 脚注
 
-<sup><a id="fnr.1" class="footref" href="#fn.1">1</a></sup> 确保已创建Github账户，并将账户**Name**改为<b>“姓名-年级”</b>的形式，如：“张XX-2016”。
+<sup><a id="fnr.1" class="footref" href="#fn.1">1</a></sup> 确保已创建Github账户，并将账户<b>Name</b>改为<b>“姓名-年级”</b>的形式，如：“张XX-2016”。
 
-<sup><a id="fnr.1" class="footref" href="#fn.1">2</a></sup> 创建Repo时指定其**Owner**为**m-L-0**，可参考[Creat A Repo](https://help.github.com/articles/create-a-repo/)。
+<sup><a id="fnr.1" class="footref" href="#fn.1">2</a></sup> 创建Repo时，可参考[Creat A Repo](https://help.github.com/articles/create-a-repo/)。
 
