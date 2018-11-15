@@ -3,8 +3,8 @@
 
 ## 作业列表
 
-1. [Clustering Schoolwork](./Clustering Schoolwork.md)
-2. [TensorFlow Schoolwork](./TensorFlow Schoolwork.md)
+1. [Clustering Schoolwork](https://github.com/m-L-0/Training-18a-2016/blob/master/Clustering%20Schoolwork.md)
+2. [TensorFlow Schoolwork](https://github.com/m-L-0/Training-18a-2016/blob/master/TensorFlow%20Schoolwork.md)
 
 ## 作业提交 
 
